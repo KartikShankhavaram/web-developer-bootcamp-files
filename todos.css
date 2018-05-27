@@ -1,0 +1,12 @@
+div {
+  border: red 2px solid;
+  margin: 10px;
+}
+
+#item3 {
+  color: #660099
+}
+
+.done {
+  text-decoration: line-through;
+}
